@@ -1,0 +1,20 @@
+{
+  "channel_type": "wx",
+  "model": "gpt-4o-mini",
+  "open_ai_api_key": "YOUR_API_KEY_HERE",
+  "claude_api_key": "YOUR_CLAUDE_KEY_HERE",
+  "text_to_image": "dall-e-2",
+  "voice_to_text": "openai",
+  "text_to_voice": "openai",
+  "proxy": "",
+  "hot_reload": false,
+  "single_chat_prefix": ["机器人", "@机器人"],
+  "single_chat_reply_prefix": "[机器人] ",
+  "group_chat_prefix": ["@机器人"],
+  "group_name_white_list": ["测试群"],
+  "plugins": {
+    "bazi": {
+      "enabled": true
+    }
+  }
+}

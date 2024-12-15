@@ -1,0 +1,4 @@
+lunar_python
+colorama
+bidict
+tiktoken>=0.3.2
